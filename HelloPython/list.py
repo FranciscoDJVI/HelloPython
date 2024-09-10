@@ -20,4 +20,9 @@ name = ["Julius", "Marcus"]
 
 #Añadir datos a las listas
 
-name.append("Prometus")
+name.append("Prometeus")
+
+#Eliminar datos de una lista
+
+name.remove("Prometeus")
+name.pop()
