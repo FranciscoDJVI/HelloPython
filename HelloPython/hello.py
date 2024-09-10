@@ -1,3 +1,3 @@
-#Primer programa 
+#Primer programa con python
 
 print("Hello word")
