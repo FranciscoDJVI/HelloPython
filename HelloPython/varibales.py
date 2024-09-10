@@ -17,3 +17,8 @@ word_2 = "word"
 float_1 = 0.5
 float_2 = 10.0
 
+#Operaciones con variable
+
+sum = num_1 + num_2
+print(sum)
+
