@@ -1,7 +1,5 @@
 #la vriables son espacios en memoria que guardan algun tipo de dato.
-
 #puede ser int, srt, float, pueden ser estructuras de datos como list, set, dict entre otros.
-
 #Ejemplos de variables int(Enteros)
 
 num_1 = 10
@@ -17,7 +15,7 @@ word_2 = "word"
 float_1 = 0.5
 float_2 = 10.0
 
-#Operaciones con variable
+#Operaciones con variables
 
 sum = num_1 + num_2
 print(sum)
